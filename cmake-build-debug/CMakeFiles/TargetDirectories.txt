@@ -1,0 +1,3 @@
+C:/Users/abc/CLionProjects/kolejka_priorytetowa_lista/cmake-build-debug/CMakeFiles/kolejka_priorytetowa_lista.dir
+C:/Users/abc/CLionProjects/kolejka_priorytetowa_lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abc/CLionProjects/kolejka_priorytetowa_lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
